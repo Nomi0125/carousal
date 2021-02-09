@@ -5,9 +5,10 @@ body {font-family: Verdana, sans-serif;}
 
 /* Slideshow container */
 .slider-container {
-  max-width: 100%;
+  max-width: 100vw;
   /* height: 100vh; */
   position: relative;
+  overflow: hidden;
 }
 
 /* Caption text */
